@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 //Bloco principal
-int main() {
+ int main() {
   // Seu código fica aqui
     return 0;
 }
